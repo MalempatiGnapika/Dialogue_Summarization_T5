@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+
+.env
+
+.ipynb_checkpoints/
+
+Thumbs.db
+.DS_Store
+
+saved_summary_model/model.safetensors
+saved_summary_model/
